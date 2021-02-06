@@ -1,6 +1,6 @@
 # patients-raspberry-code
 
-#### A implementation 0f [Sense HAT API](https://pythonhosted.org/sense-hat/api/).
+#### An implementation 0f [Sense HAT API](https://pythonhosted.org/sense-hat/api/).
 
 ## Local Setup:
  1. Ensure that Python is installed.
